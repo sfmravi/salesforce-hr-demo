@@ -107,6 +107,10 @@ body {
     border-color: #33B0B7;
 }
 
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
 .navbar-nav>li>a {
     padding-top: 20px;
     padding-bottom: 20px;
