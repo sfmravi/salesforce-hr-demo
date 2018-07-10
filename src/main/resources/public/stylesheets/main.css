@@ -1,15 +1,15 @@
-body {
-    height: 100%;
-    background-color: #222;
-}
-
-.h2test {
+h2test {
     font-size: 40px;
     font-family: 'Lobster', cursive; 
 }
 
-.h2 {
+h2 {
     font-family: 'Lobster', cursive; 
+}
+
+body {
+    height: 100%;
+    background-color: #222;
 }
 
 .body-wrapper {
