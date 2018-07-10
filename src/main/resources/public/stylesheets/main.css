@@ -102,9 +102,15 @@ body {
   position: relative;
 }
 
+.navbar-inverse {
+    background-color: #33B0B7;
+    border-color: #33B0B7;
+}
+
 .navbar-nav>li>a {
     padding-top: 20px;
     padding-bottom: 20px;
+    color: white
 }
 
 .navbar a.logo {
@@ -195,7 +201,7 @@ ul.jobsList .description {
   text-align: center;
   padding-top: 20px;
   height: 100px;
-  background-color: #222;
+  background-color: #33B0B7;
   color: white;
 }
 
