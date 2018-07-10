@@ -3,24 +3,24 @@
     <a class="logo" href="/"><img src="/files/logo.png" height="50" ></a>
     <ul class="nav navbar-nav navbar-center">
       <li>
-        <a href="/"> Products</a>
+        <a href="/"> INDUSTRY</a>
       </li>
       <li>
-        <a href="/"> Industries</a>
+        <a href="/"> PRODUCTS</a>
       </li>
       <li>
-        <a href="/"> Services</a>
+        <a href="/"> SERVICES</a>
       </li>
       <li>
-        <a href="/"> Customers</a>
+        <a href="/"> CUSTOMERS</a>
       </li>
       <li>
-        <a href="/"> Events</a>
+        <a href="/"> EVENTS</a>
       </li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
       <li class="navbar-right">
-        <a href="/"><span class="glyphicon glyphicon-user"> Login</a>
+        <a href="/"><span class="glyphicon glyphicon-user"></span> LOGIN</a>
       </li>
     </ul>
   </div>
