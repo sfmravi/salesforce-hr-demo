@@ -3,6 +3,15 @@ body {
     background-color: #222;
 }
 
+.h2test {
+    font-size: 40px;
+    font-family: 'Lobster', cursive; 
+}
+
+.h2 {
+    font-family: 'Lobster', cursive; 
+}
+
 .body-wrapper {
     background-color: white;
 }
@@ -228,15 +237,6 @@ border-style: solid;
 border-width: 3em 3em 0 3em;
 border-color: #111 transparent transparent transparent;
   -webkit-transform:rotate(360deg)
-}
-
-.h2test {
-    font-size: 40px;
-    font-family: 'Lobster', cursive; 
-}
-
-h2 {
-    font-family: 'Lobster', cursive; 
 }
 
 
