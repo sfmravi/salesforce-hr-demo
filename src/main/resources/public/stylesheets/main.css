@@ -230,4 +230,13 @@ border-color: #111 transparent transparent transparent;
   -webkit-transform:rotate(360deg)
 }
 
+h2test {
+    font-size: 40px;
+    font-family: 'Lobster', cursive; 
+}
+
+h2 {
+    font-family: 'Lobster', cursive; 
+}
+
 
