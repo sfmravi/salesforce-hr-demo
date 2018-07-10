@@ -27,6 +27,7 @@ body {
     text-shadow: 2px 2px #000000;
     position: relative;
 }
+
 .homepage-hero-module .no-video .video-container video,
 .homepage-hero-module .touch .video-container video {
     display: none;
@@ -77,6 +78,11 @@ body {
 
 .homepage-hero-module .title-container h1 {
     font-size: 90px;
+}
+
+.homepage-hero-module .title-container h1test {
+    font-size: 90px;
+    font-family: 'Lobster', cursive;
 }
 
 .homepage-hero-module .title-container p {
