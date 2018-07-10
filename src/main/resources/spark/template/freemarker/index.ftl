@@ -31,7 +31,7 @@
     </div>
 
     <div class="container main-body">
-      <h2><span class="glyphicon glyphicon-info-sign"></span> Open Positions</h2>
+      <h2test>Open Positions</h2test>
       <ul class="jobsList">
         <#list jobs as job>
           <li class="tile" onClick="location.href='/detail/${job.getSFid()}'; return false;">
